@@ -1,6 +1,8 @@
 ## Conference Name: The 13th International Conference on Smart Media and Applications (SMA 2024)
 (61740) CGI Center 2nd floor, 60, Songam-ro, Nam-gu, Gwangju, Republic of Korea
 
+### Proceeding File Link: https://journal-home.s3.ap-northeast-2.amazonaws.com/site/sma2024/program/SMA+2024+Proceedings.pdf
+
 ## Project Title: Optimized Object Detection Model for Automated Skin Disease Analysis 
 
 ### ABSTRACT
